@@ -320,8 +320,7 @@
         "nombre": "HBO POP",
         "uri": "https://edge-live15-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/hbopop.json",
-        "drm_session_for_clear_content": verdadero
+        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/hbopop.json"
       },
       {
         "nombre": "HBO MUNDI",
