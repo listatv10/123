@@ -6,13 +6,13 @@
 
       {
         "name": "TIGO PARAGUAY 1",
-        "uri": "http://personal1.duckdns.org/tigosports/3z0a2bhbsygOhJ3csHjxcn.mpd"
+        "uri": "http://personal1.duckdns.org/tigosports/3z0a2bhbsygOhJ3csHjxcn.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1c62a216a5fe423f959cb1ca02f62d83&key=54f2fdc83c1da33cd9269bf21e08218c"
       },
       {
         "name": "TIGO PARAGUAY 2",
-        "uri": "http://personal1.duckdns.org/tigosports2/6ky60xwxZmSsxRndFNMSk7.mpd"
+        "uri": "http://personal1.duckdns.org/tigosports2/6ky60xwxZmSsxRndFNMSk7.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "http://personal1.duckdns.org/tigosports2/widevine.php"
       },
