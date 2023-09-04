@@ -1309,6 +1309,33 @@
     ]
   },
   {
+    "name": "NOVELAS",
+    "samples": [
+      {
+        "name": "CANAL DE LAS ESTRELLAS",
+        "uri": "http://edge-live12-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_2A/Canal_de_las_estrellas.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/a33tih53xold61x4eed9j/KEY.CANALDLASESTRELLAS.json?rlkey=xwce6j5n8mrsu04v152d7u0oz&dl=0"
+      },
+      {
+        "name": "PASIONES",
+        "uri": "http://edge-live15-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_2A/Pasiones.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/vqfoyrzv2rnl9prbdyjui/KEY.PASIONES.json?rlkey=0n1sb7udlnryk644hnubtzbuq&dl=0"
+      },
+      {
+        "name": "TNT NOVELAS",
+        "uri": "http://edge-live15-hr.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_2A/TBS.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https:/dl.dropbox.com/scl/fi/a3zgcah2eszo4sy6zbxca/KEY.TNT.NOVELAS.json?rlkey=dywkos2mo9yg7xq2xxf0auorh&dl=0"
+      },
+      {
+        "name": "TL NOVELAS",
+        "uri": "http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8"
+      }
+    ]
+    },
+  {
     "name": "MUSICAS ",
     "samples": [
       {
