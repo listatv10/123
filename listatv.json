@@ -1199,8 +1199,16 @@
         "uri": "http://54.39.21.129/hls/196_.m3u8"
       },
       {
+        "name": "BEM 10",
+        "uri": "http://54.39.21.129/hls/193_.m3u8"
+      },
+      {
         "name": "HEY ARNOLD",
         "uri": "http://149.56.44.10/hls/146_.m3u8"
+      },
+      {
+        "name": "CHICAS SUPER PODEROSAS",
+        "uri": "http://54.39.21.129:80/hls/206_.m3u8"
       },
       {
         "name": "DEXTER",
