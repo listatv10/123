@@ -4,12 +4,6 @@
     "samples": [
 
       {
-        "name": "La Vuelta 2023 (etapa 10)",
-        "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/05/La_Vuelta_2023_Stage_10_20230905_1693915206041/ctr-all-complete.m3u8",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "https://testphp07.alwaysdata.net/unity3d/"
-      },
-      {
         "name": "TIGO PARAGUAY 1",
         "uri": "http://personal1.duckdns.org/tigosports/3z0a2bhbsygOhJ3csHjxcn.mpd",
         "drm_scheme": "clearkey",
