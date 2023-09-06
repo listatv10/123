@@ -726,7 +726,7 @@
         "name": "ESPN PREMIUM HD",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0f48f9e79f54b38d619fd25565c4d14b&key=02828e6346a46e61e965202cd8787e3a"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257"
       },
       {
         "name": "FOX SPORTS 1 HD",
