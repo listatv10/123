@@ -3,8 +3,8 @@
     "name": "ELIMINATORIAS SUDAMERICANAS 2026",
     "samples": [
       {
-        "name": "GEN TV PY",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd",
+        "name": "GEN TV",
+        "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_2A/GEN_TV.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/gen.json"
       },
