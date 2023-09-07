@@ -46,6 +46,9 @@
       }
     ]
     },
+  {
+    "name": "TIGO",
+    "samples": [
     {
         "name": "TIGO PARAGUAY 1",
         "uri": "http://personal1.duckdns.org/tigosports/3z0a2bhbsygOhJ3csHjxcn.mpd",
