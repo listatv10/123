@@ -15,6 +15,12 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e9bc6a1c64e05c35aa72e12b16d35247&key=07c1735adac15de877df3f81b4fc4731"
       },
       {
+        "name": "AMERICA TV",
+        "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1011",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b9fc5a15382b35818904ecbeed545fd0&key=8b4d83e2c382780ca615ce6cd6754d79"
+      },
+      {
         "name": "TV PUBLICA",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
         "drm_scheme": "clearkey",
