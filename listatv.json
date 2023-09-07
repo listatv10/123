@@ -46,7 +46,7 @@
       }
     ]
     },
-      {
+    {
         "name": "TIGO PARAGUAY 1",
         "uri": "http://personal1.duckdns.org/tigosports/3z0a2bhbsygOhJ3csHjxcn.mpd",
         "drm_scheme": "clearkey",
@@ -931,9 +931,9 @@
       },
       {
         "name": "DIRECTV SPORTS HD",
-        "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=1057",
+        "uri": "https://dtvott-bpk-bpk.akamaized.net/dash_live_1060/manifest.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/dhq9v59j9wrgnkcdovpup/KEY.directv.sports.json?rlkey=pjbkagqpbzxs1a6n5qlt71g1d&dl=0"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e9bc6a1c64e05c35aa72e12b16d35247&key=07c1735adac15de877df3f81b4fc4731"
       },
       {
         "name": "DIRECTV SPORTS+ HD",
@@ -958,6 +958,12 @@
         "uri": "https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/aficionados.json"
+      },
+      {
+        "name": "ECDF HD",
+        "uri": "https://dtvott-abc.akamaized.net/dash_live_1038/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6575e2cb849b581480ab260b70ccfab6&key=0b6b8622989104f69b2db91630ed0eaf"
       },
       {
         "name": "GOLF CHANNEL HD",
