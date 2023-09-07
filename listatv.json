@@ -9,12 +9,12 @@
         "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/gen.json"
       },
       {
-        "name": "TROPICALIA",
-        "uri": "https://testphp07.alwaysdata.net/tropicalia/index.m3u8"
-      },
-      {
         "name": "HEI PY",
         "uri": "https://testphp07.alwaysdata.net/hei/index.m3u8"
+      },
+      {
+        "name": "UNIVERSO PY",
+        "uri": "https://testphp07.alwaysdata.net/universo/index.m3u8"
       },
       {
         "name": "DIRECTV",
