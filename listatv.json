@@ -1234,14 +1234,14 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=61c18cefecc2d067beaa9ff181305345&key=38d6f650cbf9a38fd9f35c01f98e647a"
       },
       {
+        "name": "TOONNICK HD",
+        "uri": "https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(NICK_2_HD)/index.m3u8"
+      },
+      {
         "name": "NICKELODEON JUNIOR HD",
         "uri": "https://edge-live17-hr.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc_2A_wl/Nick_Jr.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e824b2277a86fd6adfc40aa948e5064a&key=28da2dbbe8e1a1463bbb23895b922083"
-      },
-      {
-        "name": "NICKELODEON 2 HD",
-        "uri": "https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(NICK_2_HD)/index.m3u8"
       },
       {
         "name": "LEGO HD",
