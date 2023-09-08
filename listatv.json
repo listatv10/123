@@ -834,7 +834,11 @@
         "name": "TNT SPORTS HD",
         "uri": "https://edge-mix01-cte.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_wl/TNT_Sports_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cfc6585bd311dc5f8815db12270122b6&key=7fdb253bf4a74a3187d85f6f293f5e1a"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a"
+      },
+      {
+        "name": "TNT SPORTS 2 HD",
+        "uri": "https://ixp-nqn.cdn.rcs.net.ar/mnp/tntsports/output.mpd"
       },
       {
         "name": "TNT SPORTS CHILE HD",
