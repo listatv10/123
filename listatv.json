@@ -1240,6 +1240,10 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e824b2277a86fd6adfc40aa948e5064a&key=28da2dbbe8e1a1463bbb23895b922083"
       },
       {
+        "name": "NICKELODEON 2 HD",
+        "uri": "https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(NICK_2_HD)/index.m3u8"
+      },
+      {
         "name": "LEGO HD",
         "uri": "https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/.m3u8"
       },
