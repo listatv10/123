@@ -801,6 +801,10 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257"
       },
       {
+        "name": "ESPN PREMIUM 2 HD",
+        "uri": "https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS_PREMIUM)/index.m3u8"
+      },
+      {
         "name": "FOX SPORTS 1 HD",
         "uri": "https://edge-live15-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
         "drm_scheme": "clearkey",
@@ -1001,12 +1005,6 @@
         "uri": "https://dtvott-abc.akamaized.net/dash_live_1259/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=36b2c6b7736a5901bf408916a454abf9&key=f0d2254f85b73717f4c2cd81bda71889"
-      },
-      {
-        "name": "AFISSIONADOS HD",
-        "uri": "https://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/aficionados.json"
       },
       {
         "name": "ECDF HD",
@@ -1536,6 +1534,10 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b20ed9da0e5457c9dfd3ae0b6092491&key=98997a7020c18cb28174a2490147830a"
       },
+      {
+        "name": "CNN INTERNACIONAL",
+        "uri": "https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(CNN_Internacional)/index.m3u8"
+        },
       {
         "name": "CNN CHILE",
         "uri": "https://dtvott-abc.akamaized.net/dash_live_1049/manifest.mpd",
