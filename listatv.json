@@ -841,12 +841,6 @@
         "uri": "https://ixp-nqn.cdn.rcs.net.ar/mnp/tntsports/output.mpd"
       },
       {
-        "name": "TNT SPORTS CHILE HD",
-        "uri": "https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1b9984dc66b259fe8ae597cb4fc1f4c3&key=fdbbf5a39109349d7b6a997e83fb9e4b"
-      },
-      {
         "name": "TNT SPORTS 1 BRASIL HD",
         "uri": "https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8"
       },
