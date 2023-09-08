@@ -907,6 +907,24 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=022d63431e1a5221997dc9ce74c91e4f&key=363d2c58216f24b932662a943230136a"
       },
       {
+        "name": "SPORTV 1",
+        "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=0068",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4f62db627bd93b718154cc8629e92976&key=09e37739a090140734904513ee2f4ce3"
+    },
+      {
+        "name": "SPORTV 2",
+        "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=0069",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f2d6a8c7c95b376db64b06896d730a2f&key=66e956cb531a00d163da476535b90339"
+       },
+      {
+        "name": "SPORTV 3",
+        "uri": "https://channels123.futbolenvivo.xyz/stream/manifest.mpd?id=0070",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=08a4277424073a15badafef701a42b8b&key=030601e605c2896a442c73d575a323a8"
+      },
+      {
         "name": "PREMIERE HD",
         "uri": "https://dtvott-jbc.akamaized.net/dash_live_0079/manifest.mpd",
         "drm_scheme": "clearkey",
