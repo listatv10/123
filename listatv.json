@@ -65,9 +65,9 @@
     "samples": [
     {
         "name": "TIGO PARAGUAY 1",
-        "uri": "http://pedorro.duckdns.org/goti1/3z0a2bhbsygOhJ3csHjxcn.mpd",
+        "uri": "https://testphp07.alwaysdata.net/tigosports/3z0a2bhbsygOhJ3csHjxcn.mpd",
         "drm_scheme": "widevine",
-        "drm_license_uri": "http://personal1.duckdns.org/goti1/widevine.php"
+        "drm_license_uri": "https://testphp07.alwaysdata.net/tigosports/widevine.php"
       },
       {
         "name": "TIGO PARAGUAY 2",
