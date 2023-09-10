@@ -71,9 +71,9 @@
       },
       {
         "name": "TIGO PARAGUAY 2",
-        "uri": "http://personal1.duckdns.org/tigosports2/6ky60xwxZmSsxRndFNMSk7.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "http://personal1.duckdns.org/tigosports2/widevine.php"
+        "uri": "https://testphp07.alwaysdata.net/tigosports2/6ky60xwxZmSsxRndFNMSk7.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "https://testphp07.alwaysdata.net/tigosports2/widevine.php"
       },
       {
         "name": "TIGO PARAGUAY 3",
