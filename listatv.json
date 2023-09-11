@@ -65,15 +65,15 @@
     "samples": [
     {
         "name": "TIGO PARAGUAY 1",
-        "uri": "https://testphp07.alwaysdata.net/tigosports2/6ky60xwxZmSsxRndFNMSk7.mpd",
+        "uri": "http://pedorro.duckdns.org/goti1/3z0a2bhbsygOhJ3csHjxcn.mpd",
         "drm_scheme": "widevine",
-        "drm_license_uri": "https://testphp07.alwaysdata.net/tigosports2/widevine.php"
+        "drm_license_uri": "http://pedorro.duckdns.org/goti1/widevine.php"
       },
       {
         "name": "TIGO PARAGUAY 2",
-        "uri": "https://testphp07.alwaysdata.net/tigosports2/6ky60xwxZmSsxRndFNMSk7.mpd",
+        "uri": "http://pedorro.duckdns.org/goti2/6ky60xwxZmSsxRndFNMSk7.mpd",
         "drm_scheme": "widevine",
-        "drm_license_uri": "https://testphp07.alwaysdata.net/tigosports2/widevine.php"
+        "drm_license_uri": "http://pedorro.duckdns.org/goti2/widevine.php"
       },
       {
         "name": "TIGO PARAGUAY 3",
