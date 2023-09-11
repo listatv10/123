@@ -61,6 +61,18 @@
     ]
     },
   {
+    "name": "EVENTOS STAR+",
+    "samples": [
+    
+      {
+        "name": "Eslovenia vs. Ucrania (Cuartos de Final)",
+        "uri": "https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/09/11/Slovenia_vs_Ukraine_Quart_20230911_1694437200340/ctr-all-complete.m3u8",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "http://pedorro.duckdns.org/star"
+      }
+    ]
+    },
+  {
     "name": "TIGO",
     "samples": [
     {
