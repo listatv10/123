@@ -1,4 +1,4 @@
-[
+9[
   {
     "name": "ELIMINATORIAS SUDAMERICANAS 2026",
     "samples": [
@@ -1331,7 +1331,7 @@
         "uri": "http://54.39.21.129/hls/204_.m3u8"
       },
       {
-        "name": "SCOOBU DOO",
+        "name": "SCOOBy DOO",
         "uri": "http://149.56.44.10/hls/140_.m3u8"
       },
       {
@@ -1352,7 +1352,7 @@
       },
       {
         "name": "LOS SIMPSON",
-        "uri": "http://149.56.44.10/hls/128_.m3u"
+        "uri": "http://149.56.44.10/hls/128_.m3u8"
       },
       {
         "name": "BOB ESPONJA",
