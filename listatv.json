@@ -65,9 +65,9 @@
     "samples": [
     {
         "name": "TIGO PARAGUAY 1",
-        "uri": "https://testphp07.alwaysdata.net/tigosports/3z0a2bhbsygOhJ3csHjxcn.mpd",
+        "uri": "https://ratatdetectada.mpd",
         "drm_scheme": "widevine",
-        "drm_license_uri": "https://testphp07.alwaysdata.net/tigosports/widevine.php"
+        "drm_license_uri": "https://ratadetectada.php"
       },
       {
         "name": "TIGO PARAGUAY 2",
