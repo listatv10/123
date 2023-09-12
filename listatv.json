@@ -183,7 +183,7 @@
         "name": "SNT",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc_2A/SNT_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/snt.json"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9f61dcce871cc41aeb206d05028fc30a&key=9f6248194a3bf5e35b96b194e8624693"
       },
       {
         "name": "C9N",
@@ -195,7 +195,7 @@
         "name": "GEN TV",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_2A/GEN_TV.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/gen.json"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698"
       },
       {
         "name": "TRECE PY",
@@ -207,15 +207,11 @@
         "name": "UNICANAL",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc_2A/UNICANAL_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/unicanal.json"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=63a3729cfd60f24f7e1266bee5eca02c&key=cb9ed028af40654e1aa43934ee58db58"
       },
       {
         "name": "CENTRAL TV",
         "uri": "https://cloudtv.streaming.com.py/centraltv/centraltv/playlist.m3u8"
-      },
-      {
-        "name": "AMERICA TV",
-        "uri": "https://vimeo.com/event/3607714/embed"
       },
       {
         "name": "ABC TV",
@@ -232,7 +228,7 @@
         "name": "PARAVISION",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc_2A/PARAVISION_C4.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/paravision.json"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bd8e8c9b32ef027e8ff4ff0cfce855a4&key=2918e9893b570c3fa1f215b52a12cc91"
       },
       {
         "name": "SUR TV",
@@ -258,12 +254,12 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=68a5bd6c58e6c05bacfd18d3feec31f2&key=ae23f8357512df2dfabcb8104b078182"
       },
       {
-        "name": "NEXT TV",
-        "uri": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8"
+        "name": "MEGA TV",
+        "uri": "https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8"
       },
       {
-        "name": "TROPICALIA",
-        "uri": "https://testphp07.alwaysdata.net/tropicalia/index.m3u8"
+        "name": "NEXT TV",
+        "uri": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8"
       },
       {
         "name": "HEI PY",
@@ -340,10 +336,6 @@
       {
         "name": "REGIONAL TV",
         "uri": "https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/chunklist.m3u8"
-      },
-      {
-        "name": "HOLDING PARANA TV",
-        "uri": "https://59ce1298bfb98.streamlock.net/holdingparana/holdingparana/chunklist.m3u8"
       },
       {
         "name": "AIRE TV",
