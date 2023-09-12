@@ -462,12 +462,6 @@
         "uri": "http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/chunklist_w394705880.m3u8"
       },
       {
-        "name": "BAND 2 HD",
-        "uri": "http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/chunklist_w394705880.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/37ermryrinil0et4hm7pa/KEY.GLOBO.json?rlkey=5vlhvibqwcb5fa6nidcwy4inv&dl=0"
-      },
-      {
         "name": "RECORD NEWS HD",
         "uri": "https://m.mtd.llc/iptv-query.m3u8?streaming-ip=https://www.youtube.com/@recordnews/live"
       },
@@ -495,49 +489,56 @@
         "name": "HBO 2",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/hbo2.json"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c90cc57ad2c436e5a77db2f8d9db2d85&key=04f6c73984bdcffd013050608497935d"
       },
       {
         "name": "HBO PLUS",
         "uri": "https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/hbop.json"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f0e7f7d458990edfab7b98b412564615&key=79205754b7f84a62661c2dbe9de5dd5d"
       },
       {
         "name": "HBO XTREME",
         "uri": "https://edge-live15-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/hbox.json"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d504011bbef467c0de3a7534e302a6d4&key=334103e2abe16faa7f9ab2e3097c5a58"
       },
       {
         "name": "HBO POP",
         "uri": "https://edge-live15-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/hbopop.json",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f4e1ce5cef7e9a110fe968f8881b21fa&key=6bbe2062b150b11496cdd5fbdd9c89d6",
         "drm_session_for_clear_content": true
       },
       {
         "name": "HBO MUNDI",
         "uri": "https://edge10-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/hbom.json"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7821b2662148fe333d5191acbb8a5c1f&key=ae43f3e2545237ebda58b13813b5d328"
       },
       {
         "name": "HBO FAMILY",
         "uri": "https://edge7-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/hbof.json"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=535473132f68082160b489482ca35f8e&key=e90fd91fcd3fc809bed2b1c0d37f7297"
       },
       {
         "name": "HBO SIGNATURE",
         "uri": "https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc_2A_wl/HBO_Signature.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/hbos.json"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e866499fbc1149f49989672075aa3a68&key=d2dd5c95623c6343240981c2202fc311"
       },
       {
         "name": "UNIVERSAL CINEMA",
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(UNIVERSAL_CINEMA_HD)/index.m3u8"
        
+      },
+      {
+        "name": "UNIVERSAL CINEMA 2",
+        "uri" : "http://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ce0a7c883e2a5430bba97a3d68e0daf8&key=e30dd4908e667637369dfb6582f54d64"
+        
       },
       {
         "name": "UNIVERSAL CRIME",
