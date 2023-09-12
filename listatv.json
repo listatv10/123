@@ -544,26 +544,26 @@
         "name": "UNIVERSAL CRIME",
         "uri" : "http://dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/oqcshr1efisq0lbb79w2p/KEY.UNIVERSAL.CRIME.json?rlkey=ab50erzuvsqyjn26fdx9msfpf&dl=0"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e2402ee3736c56b3bd5d50acf2300961&key=329937e5d236a35ffe91d6cd7125becc"
         
       },
       {
         "name": "UNIVERSAL COMEDY",
         "uri": "https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/8gs02i6on9vbrkrojyba1/KEY.UNIVERSAL.COMEDY.json?rlkey=z6h9uqng2opo8a6m8ifwe9ncn&dl=0"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=252ddb6e79dd5351bb95eac1115d4191&key=f2051f38612f0a71cde7174a3c6c4526"
       },
       {
         "name": "UNIVERSAL REALITY",
         "uri": "https://dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/kgbkq3i9w3o9jm7avlxxa/KEY.UNIVERSAL.REALITY.json?rlkey=wpuj0f8y5agjfhfwu45bdx6ct&dl=0"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c0402ba07dad5b0cb227af248ea2c5ee&key=ab463fb78e7e17b5e0ee4ea8bca35ec9"
       },
       {
         "name": "UNIVERSAL PREMIERE",
         "uri": "https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://dl.dropbox.com/scl/fi/robmh5ubm9huay6scqpgh/KEY.UNIVERSAL.PREMIERE.json?rlkey=g2sj40pegtoarudvbi88nf8jg&dl=0"
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d080be28a0fc5970bf1de897f80d40bd&key=ab8187d50d311d30bc0d7dc6eb5697d1"
       }
     ]
   },
