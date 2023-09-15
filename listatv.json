@@ -1332,8 +1332,28 @@
         "uri": "http://149.56.44.10:80/hls/119_.m3u8"
       },
       {
+        "name": "ZENKI",
+        "uri": "http://54.39.21.129:80/hls/210_.m3u8"
+      },
+      {
         "name": "SUPER CAMPEONES",
         "uri": "http://149.56.44.10/hls/101_.m3u8"
+      },
+      {
+        "name": "THUNDERCAT",
+        "uri": "hhttp://54.39.21.129/hls/216_.m3u8"
+      },
+      {
+        "name": "LA HORMIGA ATOMICA",
+        "uri": "hhttp://54.39.21.129/hls/213_.m3u8"
+      },
+      {
+        "name": "LA MASCARA",
+        "uri": "hhttp://54.39.21.129/hls/214_.m3u8"
+      },
+      {
+        "name": "LA VACA Y EL POLLITO",
+        "uri": "hhttp://54.39.21.129/hls/215_.m3u8"
       },
       {
         "name": "LOS PITUFOS",
@@ -1366,6 +1386,10 @@
       {
         "name": "DEXTER",
         "uri": "http://54.39.21.129:80/hls/209_.m3u8"
+      },
+      {
+        "name": "YOGUI",
+        "uri": "http://54.39.21.129:80/hls/217_.m3u8"
       },
       {
         "name": "SPIDERMAN",
